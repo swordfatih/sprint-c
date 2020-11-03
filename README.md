@@ -1,5 +1,5 @@
-# SprintC
-Projet d'IAP en langage C.
+# sprint-c (school project)
+Programming project in C.
 
 ***
 
