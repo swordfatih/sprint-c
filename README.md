@@ -1,5 +1,5 @@
 # sprint-c (school project)
-Programming project in C.
+Company management software in C. 
 
 ***
 
